@@ -1,0 +1,5 @@
+- Home
+    - [Main Page](index.md)
+    - [Navigation](navigation.md)
+- Theories
+    - [Information Theory](theories/information-theory.md)
