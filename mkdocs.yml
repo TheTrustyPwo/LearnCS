@@ -51,4 +51,3 @@ plugins:
   - search
   - literate-nav:
       nav_file: navigation.md
-  - macros
